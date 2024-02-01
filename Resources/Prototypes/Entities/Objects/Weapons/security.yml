@@ -138,6 +138,8 @@
         types:
           Blunt: 0 # melee weapon to allow flashing individual targets
       angle: 10
+    - type: StaminaDamageOnHit
+      damage: 50
     - type: Item
       size: Small
       sprite: Objects/Weapons/Melee/flash.rsi
